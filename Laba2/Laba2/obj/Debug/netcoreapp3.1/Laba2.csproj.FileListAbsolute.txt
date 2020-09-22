@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Laba2\Laba2\bin\Debug\netcoreapp3.1\Laba2.exe
+C:\Users\User\Desktop\Laba2\Laba2\bin\Debug\netcoreapp3.1\Laba2.deps.json
+C:\Users\User\Desktop\Laba2\Laba2\bin\Debug\netcoreapp3.1\Laba2.runtimeconfig.json
+C:\Users\User\Desktop\Laba2\Laba2\bin\Debug\netcoreapp3.1\Laba2.runtimeconfig.dev.json
+C:\Users\User\Desktop\Laba2\Laba2\bin\Debug\netcoreapp3.1\Laba2.dll
+C:\Users\User\Desktop\Laba2\Laba2\bin\Debug\netcoreapp3.1\Laba2.pdb
+C:\Users\User\Desktop\Laba2\Laba2\obj\Debug\netcoreapp3.1\Laba2.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Laba2\Laba2\obj\Debug\netcoreapp3.1\Laba2.Form1.resources
+C:\Users\User\Desktop\Laba2\Laba2\obj\Debug\netcoreapp3.1\Laba2.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Laba2\Laba2\obj\Debug\netcoreapp3.1\Laba2.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Laba2\Laba2\obj\Debug\netcoreapp3.1\Laba2.AssemblyInfo.cs
+C:\Users\User\Desktop\Laba2\Laba2\obj\Debug\netcoreapp3.1\Laba2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Laba2\Laba2\obj\Debug\netcoreapp3.1\Laba2.dll
+C:\Users\User\Desktop\Laba2\Laba2\obj\Debug\netcoreapp3.1\Laba2.pdb
+C:\Users\User\Desktop\Laba2\Laba2\obj\Debug\netcoreapp3.1\Laba2.genruntimeconfig.cache
