@@ -1,0 +1,10 @@
+C:\Users\BittehWin\source\repos\Laba 5\Laba 5\bin\Debug\Laba 5.exe.config
+C:\Users\BittehWin\source\repos\Laba 5\Laba 5\bin\Debug\Laba 5.exe
+C:\Users\BittehWin\source\repos\Laba 5\Laba 5\bin\Debug\Laba 5.pdb
+C:\Users\BittehWin\source\repos\Laba 5\Laba 5\obj\Debug\Laba 5.csprojAssemblyReference.cache
+C:\Users\BittehWin\source\repos\Laba 5\Laba 5\obj\Debug\Laba_5.Form1.resources
+C:\Users\BittehWin\source\repos\Laba 5\Laba 5\obj\Debug\Laba_5.Properties.Resources.resources
+C:\Users\BittehWin\source\repos\Laba 5\Laba 5\obj\Debug\Laba 5.csproj.GenerateResource.cache
+C:\Users\BittehWin\source\repos\Laba 5\Laba 5\obj\Debug\Laba 5.csproj.CoreCompileInputs.cache
+C:\Users\BittehWin\source\repos\Laba 5\Laba 5\obj\Debug\Laba 5.exe
+C:\Users\BittehWin\source\repos\Laba 5\Laba 5\obj\Debug\Laba 5.pdb
